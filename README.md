@@ -18,3 +18,6 @@ The memory system ensures the machine only vends when a coin is inserted, preven
 ![IMG_5593](https://github.com/user-attachments/assets/4479f7aa-0c2e-42a6-aa01-5447a7fe5dae)
 # Phase 3 VEND/RESET
 ![IMG_5591](https://github.com/user-attachments/assets/b1b46d82-cc9b-4c68-9cdf-3b831a38f2fc)
+
+# REFERENCES
+Justice, M. (2020). How Computers Really Work: A Hands-On Guide to the Inner Workings of the Machine. No Starch Press.
